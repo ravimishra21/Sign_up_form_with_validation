@@ -1,0 +1,5 @@
+package com.loginform.entities;
+
+public class LoginData {
+
+}
